@@ -1,0 +1,4 @@
+const prices = [10, 25, 8, 42];
+
+const withTax = prices.map(p => p * 1.2);
+withTax
