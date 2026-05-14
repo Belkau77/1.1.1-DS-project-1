@@ -26,7 +26,7 @@ print("=" * 40)
 print(f"📊 Altitude readings: {values}")
 print(f"📈 Total readings: {len(values)}")
 # print(f"🎯 Target reached: Below 4 km!")
-# @Belkau77
+# TODO@Belkau77
 # Bonus: Create a simple ASCII chart
 print("\n📉 ALTITUDE CHART:")
 max_val = max(values)
